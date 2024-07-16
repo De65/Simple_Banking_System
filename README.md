@@ -19,7 +19,6 @@ Welcome to the Banking System project! This project aims to create a fully funct
 
 - **Object-Oriented Programming (OOP):** The project makes use of classes and objects to represent accounts and transactions.
 - **Encapsulation:** Encapsulating data to protect account details and ensure data integrity.
-- **Inheritance:** Applying inheritance for code reuse and creating a hierarchical relationship between classes.
 - **Data Structures:** Utilizing arrays and lists to manage and store account information and transactions.
 
 ## Classes and Methods
