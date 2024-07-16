@@ -58,31 +58,6 @@ class NewAccount {
         Scanner scanner = new Scanner(System.in);
         AccountsDetails details = new AccountsDetails();
 
-        // details.setName("Please Insert Your Name:");
-        // details.setId(0);
-        // details.setPhoneNumber(0);
-        // details.setAccountNumber(0);
-
-        // // System.out.println(details.getName());
-        // // System.out.println(details.getId());
-        // // System.out.println(details.getPhoneNumber());
-        // // System.out.println(details.getAccountNumber());
-        // if (details == null){
-        // System.out.println("PLEASE ENTER VALID VALUES!");
-        // return ();}
-
-        // String Name = details.getName();
-        // System.out.println("NAME:" + Name);
-
-        // int ID = details.getId();
-        // System.out.println("ID:" + ID);
-
-        // int PhoneNumber = details.getPhoneNumber();
-        // System.out.println("PHONE NUMBER:" + PhoneNumber);
-
-        // int AccountNumber = details.getAccountNumber();
-        // System.out.println("ACCOUNT NUMBER:" + AccountNumber);
-
         System.out.println("Please Insert Your Name:");
         String name = scanner.nextLine();
         details.setName(name);
